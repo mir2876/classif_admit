@@ -150,8 +150,8 @@ elif menu == "Prediksi":
         st.markdown("""
         ---
         #### 📘 Catatan
-        Nilai prediksi menunjukkan estimasi seberapa besar peluang calon mahasiswa diterima.
-        Model ini tidak menjamin hasil keputusan akhir penerimaan, melainkan memberikan perkiraan berbasis data historis.
+        Hasil prediksi menunjukkan estimasi calon mahasiswa akan diterima atau ditolak.
+        Model ini tidak menjamin hasil keputusan akhir penerimaan, melainkan hanya memberikan perkiraan berbasis data historis.
         """)
 
     else:
